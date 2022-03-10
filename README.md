@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Min Thike Kyaw
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning how to survive WW3
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
 
 <!---
 HostMyanmarDev221/HostMyanmarDev221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
