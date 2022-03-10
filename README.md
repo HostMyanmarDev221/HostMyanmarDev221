@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HostMyanmarDev221
+- 👋 Hi, I’m Min Thike Kyaw
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning how to survive WW3
 - 💞️ I’m looking to collaborate on 
